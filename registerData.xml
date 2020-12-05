@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+	<student>
+	   <ID>1234</ID>
+	   <first>Nahrin</first>
+	   <last>Sharna</last>
+	   <email>nahrinsharna@gmail.com</email>
+	   <status>Senior</status>
+	   <gender>Female</gender>
+	   <DOB>1998-06-23</DOB>
+	   <cum_GPA>3.81</cum_GPA>
+	   <sem_GPA>3.65</sem_GPA>
+	   <credit>12</credit>
+	   <bill_payed>12000</bill_payed>  
+	</student>
+
+	<student>
+	   <ID>2345</ID>
+	   <first>Sumaiya</first>
+	   <last>Tasnim</last>
+	   <email>sumaiya@gmail.com</email>
+	   <status>Senior</status>
+	   <gender>Female</gender>
+	   <DOB>1999-06-22</DOB>
+	   <cum_GPA>3.81</cum_GPA>
+	   <sem_GPA>3.65</sem_GPA>
+	   <credit>12</credit>
+	   <bill_payed>10000</bill_payed> 
+	</student>
+
+	<student>
+	   <ID>3456</ID>
+	   <first>Jannatul</first>
+	   <last>Fardows</last>
+	   <email>jannat@gmail.com</email>
+	   <status>Senior</status>
+	   <gender>Female</gender>
+	   <DOB>2000-06-21</DOB>
+	   <cum_GPA>3.55</cum_GPA>
+	   <sem_GPA>3.44</sem_GPA>
+	   <credit>12</credit>
+	   <bill_payed>50000</bill_payed> 
+	</student>
+
+	<student>
+	   <ID>4567</ID>
+	   <first>Sadman</first>
+	   <last>Ahmed</last>
+	   <email>sadman@gmail.com</email>
+	   <status>Junior</status>
+	   <gender>Male</gender>
+	   <DOB>1999-09-08</DOB>
+	   <cum_GPA>3.81</cum_GPA>
+	   <sem_GPA>3.65</sem_GPA>
+	   <credit>12</credit>
+	   <bill_payed>6000</bill_payed> 
+	</student>
+
+	<student>
+	   <ID>5678</ID>
+	   <first>Rit</first>
+	   <last>Gupta</last>
+	   <email>rit@gmail.com</email>
+	   <status>Junior</status>
+	   <gender>Female</gender>
+	   <DOB>1997-01-01</DOB>
+	   <cum_GPA>3.81</cum_GPA>
+	   <sem_GPA>3.65</sem_GPA>
+	   <credit>12</credit>
+	   <bill_payed>140000</bill_payed> 
+	</student>
+
+	<student>
+	   <ID>7890</ID>
+	   <first>Tanjina</first>
+	   <last>Sultana</last>
+	   <email>tan@gmail.com</email>
+	   <status>Junior</status>
+	   <gender>Female</gender>
+	   <DOB>1999-08-23</DOB>
+	   <cum_GPA>3.81</cum_GPA>
+	   <sem_GPA>3.65</sem_GPA>
+	   <credit>12</credit>
+	   <bill_payed>7000</bill_payed> 
+	</student>
+
+</students>
